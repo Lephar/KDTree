@@ -1,0 +1,27 @@
+build-kdtree	points-file
+display-points
+find-min-x
+find-min-y
+find-max-x
+find-max-y
+display-tree
+insert	26.31	37.33
+insert	91.28	7.83
+insert	6.27	5.79
+display-tree
+search	51.71	87.93
+search	32.17	14.39
+search	63.46	22.37
+search	16.42	72.14
+search	91.28	7.83
+remove	39.71	82.31
+remove	59.31	12.47
+remove	26.31	37.33
+remove	4.66	52.15
+display-tree
+find-min-x
+find-min-y
+find-max-x
+find-max-y
+print-range 10 10 90 90
+quit
